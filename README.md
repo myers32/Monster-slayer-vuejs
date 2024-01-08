@@ -1,6 +1,6 @@
 # **Project "Monster Slayer"**
  
-### *[Monster slayer project preview](https://myers32.github.io/Monster-slayer-vuejs/)*
+### *Monster slayer project preview [Link](https://myers32.github.io/Monster-slayer-vuejs/)*
 
 #### This project is made by ✨myself.✨ 
 It is made for the training purposes, I am currently learning VueJS.
